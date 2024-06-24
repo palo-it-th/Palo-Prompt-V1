@@ -16,6 +16,8 @@
 ---
 
 Question 1:
+
+```
 This is a chess board
 
 |     | A   | B   | C   | D   | E   | F   | G   | H   |
@@ -30,6 +32,7 @@ This is a chess board
 | 1   |     |     |     |     |     |     |     |     |
 
 X represent where your location are, Right now it is A3. X is a knight, How can I reach C7 in two steps?
+```
 
 Answer 1:
 
